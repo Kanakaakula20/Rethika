@@ -1,0 +1,3 @@
+name: rithu state: installing
+task:
+- name: rithu status: installed
